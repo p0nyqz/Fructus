@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8438D4582825CC1C005F523A /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8438D4572825CC1C005F523A /* FruitHeaderView.swift */; };
 		849BC2AA27F636EB00D41C94 /* FructusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849BC2A927F636EB00D41C94 /* FructusApp.swift */; };
 		849BC2AC27F636EB00D41C94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849BC2AB27F636EB00D41C94 /* ContentView.swift */; };
 		849BC2AE27F636F600D41C94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 849BC2AD27F636F600D41C94 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8438D4572825CC1C005F523A /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
 		849BC2A627F636EB00D41C94 /* Fructus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fructus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		849BC2A927F636EB00D41C94 /* FructusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FructusApp.swift; sourceTree = "<group>"; };
 		849BC2AB27F636EB00D41C94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				849BC2BC27F63D5300D41C94 /* FruitCardView.swift */,
 				849BC2C027F645C000D41C94 /* StartButtonView.swift */,
 				849BC2D427F784B600D41C94 /* FruitRowView.swift */,
+				8438D4572825CC1C005F523A /* FruitHeaderView.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 				849BC2AC27F636EB00D41C94 /* ContentView.swift in Sources */,
 				849BC2D827F7A29B00D41C94 /* FruitDetailView.swift in Sources */,
 				849BC2D527F784B600D41C94 /* FruitRowView.swift in Sources */,
+				8438D4582825CC1C005F523A /* FruitHeaderView.swift in Sources */,
 				849BC2C427F653BF00D41C94 /* OnboardingView.swift in Sources */,
 				849BC2CD27F65CCD00D41C94 /* FruitModel.swift in Sources */,
 				849BC2AA27F636EB00D41C94 /* FructusApp.swift in Sources */,
