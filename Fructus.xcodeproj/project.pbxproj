@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8438D4582825CC1C005F523A /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8438D4572825CC1C005F523A /* FruitHeaderView.swift */; };
+		8438D45A2825D0ED005F523A /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8438D4592825D0ED005F523A /* SourceLinkView.swift */; };
 		849BC2AA27F636EB00D41C94 /* FructusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849BC2A927F636EB00D41C94 /* FructusApp.swift */; };
 		849BC2AC27F636EB00D41C94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849BC2AB27F636EB00D41C94 /* ContentView.swift */; };
 		849BC2AE27F636F600D41C94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 849BC2AD27F636F600D41C94 /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		8438D4572825CC1C005F523A /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
+		8438D4592825D0ED005F523A /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
 		849BC2A627F636EB00D41C94 /* Fructus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fructus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		849BC2A927F636EB00D41C94 /* FructusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FructusApp.swift; sourceTree = "<group>"; };
 		849BC2AB27F636EB00D41C94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				849BC2C027F645C000D41C94 /* StartButtonView.swift */,
 				849BC2D427F784B600D41C94 /* FruitRowView.swift */,
 				8438D4572825CC1C005F523A /* FruitHeaderView.swift */,
+				8438D4592825D0ED005F523A /* SourceLinkView.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -195,6 +198,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				849BC2D127F65DDC00D41C94 /* FruitData.swift in Sources */,
+				8438D45A2825D0ED005F523A /* SourceLinkView.swift in Sources */,
 				849BC2BD27F63D5300D41C94 /* FruitCardView.swift in Sources */,
 				849BC2C127F645C000D41C94 /* StartButtonView.swift in Sources */,
 				849BC2AC27F636EB00D41C94 /* ContentView.swift in Sources */,
