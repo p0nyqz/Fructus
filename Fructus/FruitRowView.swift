@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct FruitRawView: View {
+struct FruitRowView: View {
     // MARK: - PROPERTIES
 
     var fruit: Fruit
@@ -39,9 +39,9 @@ struct FruitRawView: View {
     }
 }
 
-struct FruitRawView_Previews: PreviewProvider {
+struct FruitRowView_Previews: PreviewProvider {
     static var previews: some View {
-        FruitRawView(fruit: fruitsData[0])
+        FruitRowView(fruit: fruitsData[0])
             .previewLayout(.sizeThatFits)
             .padding()
     }
