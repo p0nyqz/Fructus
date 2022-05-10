@@ -22,6 +22,7 @@
 		849BC2D827F7A29B00D41C94 /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849BC2D727F7A29B00D41C94 /* FruitDetailView.swift */; };
 		84C8B7B3282AD7EB00A97D82 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C8B7B2282AD7EB00A97D82 /* FruitNutrientsView.swift */; };
 		84C8B7B5282AF76500A97D82 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C8B7B4282AF76500A97D82 /* SettingsView.swift */; };
+		84C8B7B7282B1D1000A97D82 /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C8B7B6282B1D1000A97D82 /* SettingsLabelView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		849BC2D727F7A29B00D41C94 /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
 		84C8B7B2282AD7EB00A97D82 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
 		84C8B7B4282AF76500A97D82 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		84C8B7B6282B1D1000A97D82 /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				8438D4572825CC1C005F523A /* FruitHeaderView.swift */,
 				8438D4592825D0ED005F523A /* SourceLinkView.swift */,
 				84C8B7B2282AD7EB00A97D82 /* FruitNutrientsView.swift */,
+				84C8B7B6282B1D1000A97D82 /* SettingsLabelView.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				849BC2D527F784B600D41C94 /* FruitRowView.swift in Sources */,
 				8438D4582825CC1C005F523A /* FruitHeaderView.swift in Sources */,
 				849BC2C427F653BF00D41C94 /* OnboardingView.swift in Sources */,
+				84C8B7B7282B1D1000A97D82 /* SettingsLabelView.swift in Sources */,
 				849BC2CD27F65CCD00D41C94 /* FruitModel.swift in Sources */,
 				849BC2AA27F636EB00D41C94 /* FructusApp.swift in Sources */,
 				84C8B7B5282AF76500A97D82 /* SettingsView.swift in Sources */,
