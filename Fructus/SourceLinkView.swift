@@ -2,7 +2,7 @@
 //  SourceLinkView.swift
 //  Fructus
 //
-//  Created by olegsugatov on 06.05.2022.
+//  Created by p0nuqz on 06.05.2022.
 //
 
 import SwiftUI

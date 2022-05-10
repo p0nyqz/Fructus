@@ -2,7 +2,7 @@
 //  FructusApp.swift
 //  Fructus
 //
-//  Created by olegsugatov on 31.03.2022.
+//  Created by p0nuqz on 31.03.2022.
 //
 
 import SwiftUI

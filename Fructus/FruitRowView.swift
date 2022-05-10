@@ -2,7 +2,7 @@
 //  FruitRawView.swift
 //  Fructus
 //
-//  Created by olegsugatov on 01.04.2022.
+//  Created by p0nuqz on 01.04.2022.
 //
 
 import SwiftUI
