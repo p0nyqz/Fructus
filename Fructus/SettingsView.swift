@@ -11,6 +11,7 @@ struct SettingsView: View {
     //MARK: - PROPERTIES
     
     @Environment(\.presentationMode) var presentationMode
+    @AppStorage("isOnboarding") var isOnboarding: Bool = false
     
     //MARK: - BODY
     
@@ -37,7 +38,6 @@ struct SettingsView: View {
                             Text("Most fruits are naturally low in fat, sodium, and calories. None have cholesterol. Fruits are sources of many essential nutrients, including potassium, dietary fider, vitamins, and much more. ")
                                 .font(.footnote)
                         }
-                        
                     }
                     
                     // MARK: - SECTION 2
@@ -53,6 +53,10 @@ struct SettingsView: View {
                             .layoutPriority(1)
                             .font(.footnote)
                             .multilineTextAlignment(.leading)
+                        
+                        Toggle(isOn: $isOnboarding) {
+                            Text("Restart".uppercased())
+                        }
                     }
                     
                     // MARK: - SECTION 3
